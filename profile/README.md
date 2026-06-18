@@ -57,4 +57,9 @@ Questions, demos, or partnerships → [dxsignal.io/contact](https://dxsignal.io/
 
 ---
 
+![Deploy frequency](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.dxsignal.io%2Fapi%2Fv1%2Fbadge%2Fdeploy-frequency%3Ftoken%3Ddxs_badge_dK1lwsNRjvZhQZA2ZywdbbPCMqPaxpmkolvjPQYt)
+![Lead time](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.dxsignal.io%2Fapi%2Fv1%2Fbadge%2Flead-time%3Ftoken%3Ddxs_badge_dK1lwsNRjvZhQZA2ZywdbbPCMqPaxpmkolvjPQYt)
+![Change failure rate](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.dxsignal.io%2Fapi%2Fv1%2Fbadge%2Fchange-failure-rate%3Ftoken%3Ddxs_badge_dK1lwsNRjvZhQZA2ZywdbbPCMqPaxpmkolvjPQYt)
+![DORA rating](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.dxsignal.io%2Fapi%2Fv1%2Fbadge%2Fdora-rating%3Ftoken%3Ddxs_badge_dK1lwsNRjvZhQZA2ZywdbbPCMqPaxpmkolvjPQYt)
+
 © DXSignal — Engineering intelligence that tells you what to do, not just what happened.
